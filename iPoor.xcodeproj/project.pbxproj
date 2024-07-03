@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D020F8792C2F0E9F00D01E19 /* I am poor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I am poor.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D020F8792C2F0E9F00D01E19 /* iPoor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPoor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D020F87C2C2F0E9F00D01E19 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D020F87E2C2F0E9F00D01E19 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		D020F8802C2F0E9F00D01E19 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		D020F87A2C2F0E9F00D01E19 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D020F8792C2F0E9F00D01E19 /* I am poor.app */,
+				D020F8792C2F0E9F00D01E19 /* iPoor.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D020F8782C2F0E9F00D01E19 /* I am poor */ = {
+		D020F8782C2F0E9F00D01E19 /* iPoor */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D020F88D2C2F0EA000D01E19 /* Build configuration list for PBXNativeTarget "I am poor" */;
+			buildConfigurationList = D020F88D2C2F0EA000D01E19 /* Build configuration list for PBXNativeTarget "iPoor" */;
 			buildPhases = (
 				D020F8752C2F0E9F00D01E19 /* Sources */,
 				D020F8762C2F0E9F00D01E19 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "I am poor";
+			name = iPoor;
 			productName = "I am poor";
-			productReference = D020F8792C2F0E9F00D01E19 /* I am poor.app */;
+			productReference = D020F8792C2F0E9F00D01E19 /* iPoor.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D020F8742C2F0E9F00D01E19 /* Build configuration list for PBXProject "I am poor" */;
+			buildConfigurationList = D020F8742C2F0E9F00D01E19 /* Build configuration list for PBXProject "iPoor" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D020F8782C2F0E9F00D01E19 /* I am poor */,
+				D020F8782C2F0E9F00D01E19 /* iPoor */,
 			);
 		};
 /* End PBXProject section */
@@ -346,7 +346,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D020F8742C2F0E9F00D01E19 /* Build configuration list for PBXProject "I am poor" */ = {
+		D020F8742C2F0E9F00D01E19 /* Build configuration list for PBXProject "iPoor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D020F88B2C2F0EA000D01E19 /* Debug */,
@@ -355,7 +355,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D020F88D2C2F0EA000D01E19 /* Build configuration list for PBXNativeTarget "I am poor" */ = {
+		D020F88D2C2F0EA000D01E19 /* Build configuration list for PBXNativeTarget "iPoor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D020F88E2C2F0EA000D01E19 /* Debug */,
